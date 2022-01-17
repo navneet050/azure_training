@@ -1,0 +1,9 @@
+{
+	"name": "nvntinstance1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "510f8184-b75a-4890-a6d0-86aa9f2f56a9",
+		"tenantId": "0922f2c4-c0c8-4d3f-a57b-ae7cbe8df3f9"
+	}
+}
